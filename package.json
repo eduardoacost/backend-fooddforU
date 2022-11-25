@@ -26,11 +26,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/AcostaF2001/Backend.git"
+    "url": "https://github.com/eduardoacost/backend-fooddforU.git"
   },
   "bugs": {
-    "url": "https://github.com/AcostaF2001/Backend/issues"
+    "url": "https://github.com/eduardoacost/backend-fooddforU/issues"
   },
-  "homepage": "https://github.com/AcostaF2001/Backend#readme",
+  "homepage": "https://github.com/eduardoacost/backend-fooddforU#readme",
   "description": ""
 }
