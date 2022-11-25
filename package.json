@@ -23,5 +23,14 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AcostaF2001/Backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AcostaF2001/Backend/issues"
+  },
+  "homepage": "https://github.com/AcostaF2001/Backend#readme",
+  "description": ""
 }
